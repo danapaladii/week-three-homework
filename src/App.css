@@ -1,0 +1,65 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.crossed {
+  text-decoration: line-through 2px red;
+  background-color: transparent;
+
+} 
+
+ul, li {
+  list-style-type: none;
+  padding: 10px;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container1 {
+  display: flex;
+  justify-content: center;
+}
+
+.add {
+  margin-top: 5px;
+  background: transparent;
+  padding: 10px;
+  border: none;
+  width: 70%;
+  color: black;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.delete {
+  margin-bottom: 5px;
+  background: transparent;
+  padding: 10px;
+  border: none;
+  width: 70%;
+  color: black;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+input {
+  flex: 1;
+  padding: 8px;
+  margin: 10px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: transparent;
+}
+
+img {
+  border-radius: 50%;
+}
+
+
